@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "76aa84eef1480d1d",
+    "type": "split",
+    "children": [
+      {
+        "id": "473228611d22016d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f6a16e8aa9749bb6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "28f43b0dee1c6f8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d2d1463bc71e8bd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dee0861492421090",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "777e5379f996c82d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "967af6964892b01c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1c29e6ed30a36db5",
+    "type": "split",
+    "children": [
+      {
+        "id": "bb75e06adaba29e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4722285d2e542e5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "6dc24f8834cf6471",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "13458e8d8cafbb5f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "e93659f8a7f28125",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "455b84bef47e1aba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "f6a16e8aa9749bb6",
+  "lastOpenFiles": [
+    "README.md",
+    "Hacker-study-note/JWT/Attacks/JWT authentication bypass via unverified nad no signeture.md",
+    "Hacker-study-note/JWT/Attacks/authentication bypass via jwk header injection.md",
+    "Hacker-study-note/JWT/Attacks/authentication bypass via jku header injection.md",
+    "Hacker-study-note/JWT/JWT attacks.md",
+    "Hacker-study-note/JWT/Info about JWT.md",
+    "Hacker-study-note/JWT/Attacks",
+    "Hacker-study-note/JWT",
+    "Hacker-study-note/CWL/AWS/AWS Recon And Enums.md",
+    "Hacker-study-note/CWL/AWS/AWS cognito Enumerating.md",
+    "Hacker-study-note/CWL/AWS",
+    "Hacker-study-note/CWL",
+    "Hacker-study-note/obsidian.zip",
+    "Hacker-study-note/http request smuggling/images/forwarding-http-requests-to-back-end-server.svg",
+    "Hacker-study-note/http request smuggling/extras/Transfer-Encoding.md",
+    "Hacker-study-note/http request smuggling/extras/multiplexing.md",
+    "Hacker-study-note/http request smuggling/extras/HTTP pipelining.md",
+    "Hacker-study-note/http request smuggling/attacks/HTTP request smuggling, basic CL.TE vulnerability.md",
+    "Hacker-study-note/http request smuggling/images",
+    "Hacker-study-note/http request smuggling/HTTP Smuggling.md",
+    "Hacker-study-note/http request smuggling/HTTP request smuggling Attack list.md",
+    "Hacker-study-note/http request smuggling/extras",
+    "Hacker-study-note/http request smuggling/attacks",
+    "Hacker-study-note/http request smuggling",
+    "Hacker-study-note/Untitled 1.base",
+    "Hacker-study-note/Insecure deserialization/images/1_fap8Rc8GzsW1ggwpr1nr_Q.webp",
+    "Hacker-study-note/Insecure deserialization/attacks/Using application functionality to exploit insecure deserialization.md",
+    "Hacker-study-note/Insecure deserialization/attacks/Modifying serialized objects.md",
+    "Hacker-study-note/Insecure deserialization/attacks/Modifying serialized data types.md",
+    "Hacker-study-note/Insecure deserialization/attacks/Arbitrary object injection in PHP.md",
+    "Hacker-study-note/Insecure deserialization/🧊 Serialization and Deserialization.md",
+    "Hacker-study-note/Insecure deserialization/What is  Insecure Deserialization .md",
+    "Hacker-study-note/Insecure deserialization/Magic Methods.md",
+    "Hacker-study-note/Insecure deserialization/Insecure deserialization Attack List.md",
+    "Hacker-study-note/DOM-based vulnerabilities/What is the DOM.md",
+    "Hacker-study-note/Clickjacking/extras/top-level window.md",
+    "Hacker-study-note/Clickjacking/Attacks/Multistep Clickjacking.md",
+    "Hacker-study-note/Clickjacking/Attacks/How to construct a basic clickjacking attack.md",
+    "Hacker-study-note/CSRF/images/Pasted image 20250325193936.png",
+    "Hacker-study-note/CSRF/images/Pasted image 20250325193640.png",
+    "Hacker-study-note/Access control vulnerabilities and privilege escalation/images/image.png",
+    "Hacker-study-note/Access control vulnerabilities and privilege escalation/images/image-1.png",
+    "Hacker-study-note/Access control vulnerabilities and privilege escalation/images/image 2.png",
+    "Hacker-study-note/Access control vulnerabilities and privilege escalation/images/image 1.png"
+  ]
+}

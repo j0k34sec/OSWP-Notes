@@ -1,0 +1,16 @@
+{
+  "promptDelete": false,
+  "foldHeading": false,
+  "tabSize": 5,
+  "alwaysUpdateLinks": true,
+  "foldIndent": false,
+  "showLineNumber": false,
+  "readableLineLength": true,
+  "showInlineTitle": true,
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}
