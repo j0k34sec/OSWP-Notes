@@ -11,10 +11,14 @@
             "id": "f6a16e8aa9749bb6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "OWSP.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "OWSP"
             }
           }
         ]
@@ -180,8 +184,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "f6a16e8aa9749bb6",
+  "active": "dee0861492421090",
   "lastOpenFiles": [
+    "OWSP.md",
     "README.md",
     "Hacker-study-note/JWT/Attacks/JWT authentication bypass via unverified nad no signeture.md",
     "Hacker-study-note/JWT/Attacks/authentication bypass via jwk header injection.md",
@@ -219,7 +224,6 @@
     "Hacker-study-note/DOM-based vulnerabilities/What is the DOM.md",
     "Hacker-study-note/Clickjacking/extras/top-level window.md",
     "Hacker-study-note/Clickjacking/Attacks/Multistep Clickjacking.md",
-    "Hacker-study-note/Clickjacking/Attacks/How to construct a basic clickjacking attack.md",
     "Hacker-study-note/CSRF/images/Pasted image 20250325193936.png",
     "Hacker-study-note/CSRF/images/Pasted image 20250325193640.png",
     "Hacker-study-note/Access control vulnerabilities and privilege escalation/images/image.png",
