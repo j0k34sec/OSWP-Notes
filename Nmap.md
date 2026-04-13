@@ -13,3 +13,10 @@ So sometimes in some  directory  supports only some specific `HTTP Method`  LIKE
 ```bash
 nmap -p80 --script=http-methods --script-args http-methods.url-path='/wp-includes/' $IP
 ```
+
+
+Also if you want to enumerate WORDPRESS website we can use this command 
+
+```bash
+nmap -p80 --script=http-wordpress-enum offsecwp $IP
+```
