@@ -1,1 +1,1 @@
-so 
+after scanning our target and discovering  
