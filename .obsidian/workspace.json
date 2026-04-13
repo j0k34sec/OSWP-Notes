@@ -11,14 +11,13 @@
             "id": "f6a16e8aa9749bb6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "OWSP.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "OWSP"
+              "icon": "lucide-table",
+              "title": "Untitled"
             }
           }
         ]
@@ -184,9 +183,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "dee0861492421090",
+  "active": "f6a16e8aa9749bb6",
   "lastOpenFiles": [
     "OWSP.md",
+    "Untitled.base",
     "README.md",
     "Hacker-study-note/JWT/Attacks/JWT authentication bypass via unverified nad no signeture.md",
     "Hacker-study-note/JWT/Attacks/authentication bypass via jwk header injection.md",
@@ -211,7 +211,6 @@
     "Hacker-study-note/http request smuggling/extras",
     "Hacker-study-note/http request smuggling/attacks",
     "Hacker-study-note/http request smuggling",
-    "Hacker-study-note/Untitled 1.base",
     "Hacker-study-note/Insecure deserialization/images/1_fap8Rc8GzsW1ggwpr1nr_Q.webp",
     "Hacker-study-note/Insecure deserialization/attacks/Using application functionality to exploit insecure deserialization.md",
     "Hacker-study-note/Insecure deserialization/attacks/Modifying serialized objects.md",
@@ -223,7 +222,6 @@
     "Hacker-study-note/Insecure deserialization/Insecure deserialization Attack List.md",
     "Hacker-study-note/DOM-based vulnerabilities/What is the DOM.md",
     "Hacker-study-note/Clickjacking/extras/top-level window.md",
-    "Hacker-study-note/Clickjacking/Attacks/Multistep Clickjacking.md",
     "Hacker-study-note/CSRF/images/Pasted image 20250325193936.png",
     "Hacker-study-note/CSRF/images/Pasted image 20250325193640.png",
     "Hacker-study-note/Access control vulnerabilities and privilege escalation/images/image.png",
