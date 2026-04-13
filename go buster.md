@@ -1,1 +1,1 @@
-along side with directory busting we can also enumerate 
+along side with directory busting we can also enumerate subdomains (active enumeration) 
