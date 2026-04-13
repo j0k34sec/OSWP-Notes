@@ -11,13 +11,14 @@
             "id": "f6a16e8aa9749bb6",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.base",
-                "viewName": "Table"
+                "file": "OWSP.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-table",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "OWSP"
             }
           }
         ]
@@ -185,8 +186,8 @@
   },
   "active": "f6a16e8aa9749bb6",
   "lastOpenFiles": [
-    "OWSP.md",
     "Untitled.base",
+    "OWSP.md",
     "README.md",
     "Hacker-study-note/JWT/Attacks/JWT authentication bypass via unverified nad no signeture.md",
     "Hacker-study-note/JWT/Attacks/authentication bypass via jwk header injection.md",
