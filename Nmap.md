@@ -1,1 +1,1 @@
-after scanning our target and discovering  the ports 
+after scanning our target and discovering  the ports and knowing
