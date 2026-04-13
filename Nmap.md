@@ -4,3 +4,5 @@ exmaple:
 ```bash
 nmap -p80 --script=http-enum $IP
 ```
+
+![[Pasted image 20260413131553.png]]

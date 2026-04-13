@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Nmap.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -186,6 +186,7 @@
   },
   "active": "f6a16e8aa9749bb6",
   "lastOpenFiles": [
+    "Pasted image 20260413131553.png",
     "Untitled.base",
     "Nmap.md",
     "README.md",
