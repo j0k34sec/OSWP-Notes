@@ -1,1 +1,1 @@
-after scanning our target and discovering  the ports and knowing which service they ar
+after scanning our target and discovering  the ports and knowing which service they are running we can run these nse scripts to enumerate more things of the target
