@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1c29e6ed30a36db5",
@@ -184,7 +185,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "dee0861492421090",
+  "active": "f6a16e8aa9749bb6",
   "lastOpenFiles": [
     "Untitled",
     "Scanning/NSE script.md",
