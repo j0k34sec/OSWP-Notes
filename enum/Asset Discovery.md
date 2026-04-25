@@ -31,6 +31,7 @@ with the same way we can discover parameter values by changing in the target url
 basically we can also fuzz data from `POST` data from HTTP requests
 
 ```bash
-wfuzz -c FOR COLOR OUTPUT -z To SPECIFY THE INPUT SOUCE --hc TO FILTER OUT USING STATUS CODE -d POST DATA HERE http://target.xyz/wp-login.php
+wfuzz -c FOR COLOR OUTPUT -z To SPECIFY THE INPUT SOUCE --hc TO FILTER OUT USING STATUS CODE -d POST DATA HERE   --hh 6059 http://target.xyz/wp-login.php
 ```
 
+using the `--hh 6059` you can ignore the responses which have 6059 line you can add other number after analyzing response before.
