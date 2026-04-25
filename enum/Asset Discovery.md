@@ -22,5 +22,5 @@ with this will only discover the files, btu fi we add a `/` afrer the fuzz like 
 ## Parameter Discover using wfuzz
 we can discover live parameters  form url endpoints 
 ```bash
-	wfuzz -c FOR COLOR OUTPUT -z To SPECIFY THE INPUT SOUCE --hc TO FILTER OUT USING STATUS CODE target.xyz/index.php?FUZZ=data 
+	wfuzz -c FOR COLOR OUTPUT -z To SPECIFY THE INPUT SOUCE --hc TO FILTER OUT USING STATUS CODE http://target.xyz/index.php?FUZZ=data 
 ```
