@@ -29,6 +29,7 @@ wfuzz -c FOR COLOR OUTPUT -z To SPECIFY THE INPUT SOUCE --hc TO FILTER OUT USING
 with the same way we can discover parameter values by changing in the target url `http://target.xyz/index.php?fpv=FUZZ`
 ## Fuzz `POST` data form a http request using WFUZZ 
 basically we can also fuzz data from `POST` data from HTTP requests
+
 ```bash
-wfuzz -c FOR COLOR OUTPUT -z To SPECIFY THE INPUT SOUCE --hc TO FILTER OUT USING STATUS CODE -d POST DATA HERE 
+wfuzz -c FOR COLOR OUTPUT -z To SPECIFY THE INPUT SOUCE --hc TO FILTER OUT USING STATUS CODE -d POST DATA HERE http://target.xyz/wp-login.php
 ```
