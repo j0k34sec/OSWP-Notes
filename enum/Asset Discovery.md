@@ -14,5 +14,5 @@ gobuster dns -d test.xyz -w /path/to/wordlist.txt -t THREAD COUNT
 using this tool we can discover hidden files and directory from a website 
 
 ```bash
-wfuzz -c FOR COLOR OUTPU-z 
+wfuzz -c FOR COLOR OUTPUT -z To SPECIFY THE INPUT SOUCE --hc TO FILTER OUT USING STATUS CODE 
 ```
