@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "go buster.md",
+                "file": "enum/Untitled.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "go buster"
+              "title": "Untitled"
             }
           }
         ]
@@ -186,8 +186,10 @@
   },
   "active": "f6a16e8aa9749bb6",
   "lastOpenFiles": [
+    "enum/go buster.md",
+    "enum/Untitled.md",
+    "enum",
     "Nmap.md",
-    "go buster.md",
     "public",
     "public/Pasted image 20260413131553.png",
     "Untitled.base",
@@ -213,7 +215,6 @@
     "Hacker-study-note/http request smuggling/HTTP Smuggling.md",
     "Hacker-study-note/http request smuggling/HTTP request smuggling Attack list.md",
     "Hacker-study-note/http request smuggling/extras",
-    "Hacker-study-note/http request smuggling/attacks",
     "Hacker-study-note/Insecure deserialization/images/1_fap8Rc8GzsW1ggwpr1nr_Q.webp",
     "Hacker-study-note/Insecure deserialization/attacks/Using application functionality to exploit insecure deserialization.md",
     "Hacker-study-note/Insecure deserialization/attacks/Modifying serialized objects.md",
@@ -224,7 +225,6 @@
     "Hacker-study-note/Insecure deserialization/Magic Methods.md",
     "Hacker-study-note/Insecure deserialization/Insecure deserialization Attack List.md",
     "Hacker-study-note/DOM-based vulnerabilities/What is the DOM.md",
-    "Hacker-study-note/Clickjacking/extras/top-level window.md",
     "Hacker-study-note/CSRF/images/Pasted image 20250325193936.png",
     "Hacker-study-note/CSRF/images/Pasted image 20250325193640.png",
     "Hacker-study-note/Access control vulnerabilities and privilege escalation/images/image.png",
