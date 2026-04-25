@@ -33,3 +33,4 @@ basically we can also fuzz data from `POST` data from HTTP requests
 ```bash
 wfuzz -c FOR COLOR OUTPUT -z To SPECIFY THE INPUT SOUCE --hc TO FILTER OUT USING STATUS CODE -d POST DATA HERE http://target.xyz/wp-login.php
 ```
+
