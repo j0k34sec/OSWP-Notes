@@ -28,3 +28,4 @@ we can discover live parameters  form url endpoints
 
 with the same way we can discover parameter values by changing in the target url `http://target.xyz/index.php?fpv=FUZZ`
 ## Fuzz `POST` data form a http request using WFUZZ 
+basically we can also fuzz data from `POST` data from HTTP re
