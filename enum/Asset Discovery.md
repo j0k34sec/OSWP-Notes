@@ -11,3 +11,8 @@ gobuster dns -d test.xyz -w /path/to/wordlist.txt -t THREAD COUNT
 
 # WFUZZ
 ## File enumeration using WFUZZ
+using this tool we can discover hidden files and directory from a website 
+
+```bash
+wfuzz -c FOR COLOR OUTPU-z 
+```

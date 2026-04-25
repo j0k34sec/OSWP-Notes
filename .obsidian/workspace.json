@@ -40,8 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "byCreatedTime",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -184,8 +184,9 @@
       "bases:Create new base": false
     }
   },
-  "active": "f6a16e8aa9749bb6",
+  "active": "dee0861492421090",
   "lastOpenFiles": [
+    "Untitled",
     "Scanning/NSE script.md",
     "enum/go buster.md",
     "Scanning",
