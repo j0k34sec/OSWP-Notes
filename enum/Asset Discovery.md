@@ -35,3 +35,6 @@ wfuzz -c FOR COLOR OUTPUT -z To SPECIFY THE INPUT SOUCE --hc TO FILTER OUT USING
 ```
 
 using the `--hh 6059` you can ignore the responses which have 6059 line you can add other number after analyzing response before.
+
+# Hakrawler
+basically this tool retrive data like URLS an all from wayback machine so its a passive technique 
