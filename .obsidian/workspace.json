@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Attacks/xss.md",
+                "file": "Scanning/NSE script.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "xss"
+              "title": "NSE script"
             }
           }
         ]
@@ -184,10 +184,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "f6a16e8aa9749bb6",
+  "active": "dee0861492421090",
   "lastOpenFiles": [
-    "enum/Asset Discovery.md",
+    "bug bounty targets",
     "Attacks/xss.md",
+    "enum/Asset Discovery.md",
     "Attacks",
     "Scanning/NSE script.md",
     "enum/go buster.md",
@@ -224,7 +225,6 @@
     "Hacker-study-note/Insecure deserialization/🧊 Serialization and Deserialization.md",
     "Hacker-study-note/Insecure deserialization/What is  Insecure Deserialization .md",
     "Hacker-study-note/Insecure deserialization/Magic Methods.md",
-    "Hacker-study-note/Insecure deserialization/Insecure deserialization Attack List.md",
     "Hacker-study-note/CSRF/images/Pasted image 20250325193936.png",
     "Hacker-study-note/CSRF/images/Pasted image 20250325193640.png",
     "Hacker-study-note/Access control vulnerabilities and privilege escalation/images/image.png",
